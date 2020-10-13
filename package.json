@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pdf2json": "^1.1.7",
-    "pdfreader": "^0.2.5",
-    "prettier": "^1.14.0"
+    "pdf2json": "1.x.x",
+    "pdfreader": "0.2.x",
+    "prettier": "2.x.x"
   }
 }
